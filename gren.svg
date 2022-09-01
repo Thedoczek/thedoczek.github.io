@@ -6,55 +6,55 @@
       }
 
       .cls-2 {
-        fill: hsl(120,100,4);
+        fill: #000F00;
       }
 
       .cls-3 {
-        fill: hsl(120,100,20);
+        fill: #004D00;
       }
 
       .cls-4 {
-        fill: hsl(120,100,16);
+        fill: #003D00;
       }
 
       .cls-5 {
-        fill: hsl(120,100,14);
+        fill: #003800;
       }
 
       .cls-6 {
-        fill: hsl(120,100,28);
+        fill: #006B00;
       }
 
       .cls-7 {
-        fill: hsl(120,100,32);
+        fill: #007A00;
       }
 
       .cls-8 {
-        fill: hsl(120,100,20);
+        fill: #004D00;
       }
 
       .cls-9 {
-        fill: hsl(120,100,22);
+        fill: #005700;
       }
 
       .cls-10 {
-        fill: hsl(120,100,18);
+        fill: #004700;
       }
 
       .cls-11 {
-        fill: hsl(120,100,12);
+        fill: #002E00;
       }
 
       .cls-12 {
-        fill: hsl(120,100,20);
+        fill: #004D00;
       }
 
       .cls-13 {
-        fill: hsl(120,100,20);
+        fill: #004D00;
       }
 
       .cls-14, .cls-18 {
-        fill: hsl(120,100,8);
+        fill: #001F00;
       }
 
       .cls-14 {
@@ -66,12 +66,12 @@
       }
 
       .cls-15 {
-        fill: hsl(120,100,85);
+        fill: #47FF47;
       }
 
       .cls-16 {
-        fill: hsl(120,100,12);
-        stroke: hsl(120,100,25);
+        fill: #002E00;
+        stroke: #006100;
       }
 
       .cls-16, .cls-17 {
@@ -79,11 +79,11 @@
       }
 
       .cls-17 {
-        stroke: hsl(120,100,14);
+        stroke: #003800;
       }
 
       .cls-19 {
-        fill: hsl(120,100,10);
+        fill: #002900;
       }
 
       .cls-20 {
