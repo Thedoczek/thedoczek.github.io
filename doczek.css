@@ -9,3 +9,15 @@
 .xbox#gamepad-0 .stick {
     background-image: url(https://thedoczek.github.io/blustick.svg) !important;
 }
+
+.controller.xbox#gamepad-1 {	
+    background-image: url(https://thedoczek.github.io/gren.svg) !important;
+} 
+
+.xbox#gamepad-1 .button {
+    background-image: url(https://thedoczek.github.io/grenabxy.svg) !important;
+}
+
+.xbox#gamepad-1 .stick {
+    background-image: url(https://thedoczek.github.io/grenstick.svg) !important;
+}
