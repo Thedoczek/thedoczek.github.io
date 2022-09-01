@@ -1,3 +1,11 @@
 .controller.xbox {	
-    background: url(https://thedoczek.github.io/base.svg) !important;
+    background: url(https://thedoczek.github.io/blu.svg) !important;
 } 
+
+.xbox .button {
+    background: url(https://thedoczek.github.io/bluabxy.svg) !important;
+}
+
+.xbox .stick {
+    background: url(https://thedoczek.github.io/blustick.svg) !important;
+}
