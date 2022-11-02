@@ -28,22 +28,22 @@
 
 /* YOKU'S ISLAND EXPRESS */
 
-.controller.xbox#gamepad-0 {	
+.controller.xbox#gamepad-2 {	
     background-image: url(https://thedoczek.github.io/blu.svg) !important;
 } 
 
-.xbox#gamepad-0 .button {
+.xbox#gamepad-2 .button {
     background-image: url(https://thedoczek.github.io/bluabxy.svg) !important;
 }
 
-.xbox#gamepad-0 .stick {
+.xbox#gamepad-2 .stick {
     background-image: url(https://thedoczek.github.io/blustick.svg) !important;
 }
 
-.xbox#gamepad-0 .trigger.left {
+.xbox#gamepad-2 .trigger.left {
     background-image: url(https://thedoczek.github.io/bluetrigger.svg) !important;
 }
 
-.xbox#gamepad-1 .trigger.right {
+.xbox#gamepad-2 .trigger.right {
     background-image: url(https://thedoczek.github.io/yellowtrigger.svg) !important;
 }
