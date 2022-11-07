@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');
+
+table {
+  border-collapse: collapse;
+  border-color: #e0e8ff;
+}
+
+b6 {
+  font-weight: 600
+}
+
+b5 {
+  font-weight: 500
+}
+
+a:link {
+  color: #00c000;
+  text-decoration: none;
+}
+
+/* .light a:link {
+  color: #0030c0;
+} */
+
+a:visited {
+  color: #006000;
+  text-decoration: none;
+}
+/* .light a:visited {
+  color: #0035d3;
+} */
+
+a:hover {
+  color: #009c00;
+  text-decoration: underline;
+}
+/* .light a:hover {
+  color: #00279c;
+} */
+
+a:active {
+  color: #686868;
+  text-decoration: underline;
+}
+/* .light a:active {
+  color: #4e4e4e;
+} */
+
+utw {
+  font-weight: 700;
+  font-style: italic;
+  font-size: 22;
+}
+
+wyd {
+  font-weight: 300;
+  font-style: italic;
+  font-size: 15;
+}
+
+body {
+  color:e0e8ff;
+  background-color:002080;
+  font-family:Nunito, sans-serif;
+  font-weight:400;
+  font-size:16;
+}
+/* body.light {
+  color:001860;
+  background-color:80ff80;
+} */
+
+notl {
+  color: #ff0000;
+  text-decoration: none;
+}
+/* .light notl {
+  color: #d00000;
+} */
+
+notl:hover {
+  color: #d00000;
+  text-decoration: underline;
+  cursor: pointer;
+}
+/* .light notl:hover {
+  color: #a00000;
+} */
+
+.hide div {
+  display: none;
+}
+
+.hide div:target {
+  display: contents;
+}
+
+hr {color:e0e8ff}
+/* hr.light {color:001860} */
