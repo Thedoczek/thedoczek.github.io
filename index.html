@@ -1,14 +1,98 @@
 <html>
 <head>
-  <title>Валерия Game Queue</title>
+  <title>Wievs </title>
   <link rel="stylesheet" href="styles.css">
+  <style>
+p {
+  text-align: center;
+  font-size:150%;
+  margin-top: 0px;
+}
+</style>
 </head>
 <body><center>
-  <h1 style="font-weight:700;">Kolejka playlist dla Валерии</h1>
-  <h3>Bo już same playlisty nie starczają</h3><hr>
-  <a href="https://youtube.com/playlist?list=PLp1tsi2hn9JbgDuwLWlWGbSTc5qgJsI25"><h2 style="font-weight:700;">seria Portal</h2></a>
-  <a href="https://youtube.com/playlist?list=PLp1tsi2hn9JY233_enPOaaV3ltmfY5gEO"><h2 style="font-weight:700;">Yoku's Island Express</h2></a>
-  <a href="https://youtube.com/playlist?list=PLp1tsi2hn9JaLfWrysG2UyBvvHVoiZ3In"><h2 style="font-weight:700;">Q.U.B.E. 2</h2></a>
-  <a href="https://youtube.com/playlist?list=PLp1tsi2hn9JYp2SAMdkLDUHMyn1DCPwUw"><h2 style="font-weight:700;">Antichamber</h2></a>
+
+<iframe height="90px" width="310px" frameborder="0" src="https://socialcounts.org/youtube-video-live-view-count/075F41yFvqU/embed" allowFullScreen></iframe>
+<p id="blanka"></p><br>
+
+<iframe height="90px" width="310px" frameborder="0" src="https://socialcounts.org/youtube-video-live-view-count/XBNfNJZ660o/embed" allowFullScreen></iframe>
+<p id="loreen"></p><br>
+
+<iframe height="90px" width="310px" frameborder="0" src="https://socialcounts.org/youtube-video-live-view-count/dT9K7RCHxus/embed" allowFullScreen></iframe>
+<p id="noa"></p><br>
+
+<iframe height="90px" width="310px" frameborder="0" src="https://socialcounts.org/youtube-video-live-view-count/7ferYXj9vAA/embed" allowFullScreen></iframe>
+<p id="kaarija"></p><br>
+
+<iframe height="90px" width="310px" frameborder="0" src="https://socialcounts.org/youtube-video-live-view-count/JPiY1v3EfNc/embed" allowFullScreen></iframe>
+<p id="let3"></p>
+
+<script>
+// Set the date we're counting down to
+var timeFromBlanka = new Date("May 11, 2023 21:05:54").getTime();
+var timeFromLoreen = new Date("May 9, 2023 20:44:38").getTime();
+var timeFromNoa = new Date("May 9, 2023 20:40:15").getTime();
+var timeFromKaarija = new Date("May 9, 2023 20:52:26").getTime();
+var timeFromLet3 = new Date("May 9, 2023 20:12:11").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+    
+  // Find the distance between now and the count down date
+  var distanceB = now - timeFromBlanka;
+  var distanceL = now - timeFromLoreen;
+  var distanceN = now - timeFromNoa;
+  var distanceK = now - timeFromKaarija;
+  var distance3 = now - timeFromLet3
+  
+  // Time calculations for days, hours, minutes and seconds
+  var daysB = Math.floor(distanceB / (1000 * 60 * 60 * 24));
+  var hoursB = Math.floor((distanceB % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutesB = Math.floor((distanceB % (1000 * 60 * 60)) / (1000 * 60));
+  var secondsB = Math.floor((distanceB % (1000 * 60)) / 1000);
+  // Output the result in an element with id="demo"
+  document.getElementById("blanka").innerHTML = daysB + "d " + hoursB + "h "
+  + minutesB + "m " + secondsB + "s ";
+  
+  // Time calculations for days, hours, minutes and seconds
+  var daysL = Math.floor(distanceL / (1000 * 60 * 60 * 24));
+  var hoursL = Math.floor((distanceL % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutesL = Math.floor((distanceL % (1000 * 60 * 60)) / (1000 * 60));
+  var secondsL = Math.floor((distanceL % (1000 * 60)) / 1000);
+  // Output the result in an element with id="demo"
+  document.getElementById("loreen").innerHTML = daysL + "d " + hoursL + "h "
+  + minutesL + "m " + secondsL + "s ";
+  
+  // Time calculations for days, hours, minutes and seconds
+  var daysN = Math.floor(distanceN / (1000 * 60 * 60 * 24));
+  var hoursN = Math.floor((distanceN % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutesN = Math.floor((distanceN % (1000 * 60 * 60)) / (1000 * 60));
+  var secondsN = Math.floor((distanceN % (1000 * 60)) / 1000);
+  // Output the result in an element with id="demo"
+  document.getElementById("noa").innerHTML = daysN + "d " + hoursN + "h "
+  + minutesN + "m " + secondsN + "s ";
+  
+  // Time calculations for days, hours, minutes and seconds
+  var daysK = Math.floor(distanceK / (1000 * 60 * 60 * 24));
+  var hoursK = Math.floor((distanceK % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutesK = Math.floor((distanceK % (1000 * 60 * 60)) / (1000 * 60));
+  var secondsK = Math.floor((distanceK % (1000 * 60)) / 1000);
+  // Output the result in an element with id="demo"
+  document.getElementById("kaarija").innerHTML = daysK + "d " + hoursK + "h "
+  + minutesK + "m " + secondsK + "s ";
+  
+  // Time calculations for days, hours, minutes and seconds
+  var days3 = Math.floor(distance3 / (1000 * 60 * 60 * 24));
+  var hours3 = Math.floor((distance3 % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes3 = Math.floor((distance3 % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds3 = Math.floor((distance3 % (1000 * 60)) / 1000);
+  // Output the result in an element with id="demo"
+  document.getElementById("let3").innerHTML = days3 + "d " + hours3 + "h "
+  + minutes3 + "m " + seconds3 + "s ";
+}, 1000);
+</script>
 </center></body>
 </html>
