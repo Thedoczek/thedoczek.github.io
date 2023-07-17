@@ -9,7 +9,7 @@
 }
 
 .xbox#gamepad-0 .stick {
-    background-image: url(https://thedoczek.github.io/grenstick.svg) !important;
+    background-image: url(https://thedoczek.github.io/blustick.svg) !important;
 }
 
 /* PLAYER 2 */
@@ -23,5 +23,5 @@
 }
 
 .xbox#gamepad-1 .stick {
-    background-image: url(https://thedoczek.github.io/blustick.svg) !important;
+    background-image: url(https://thedoczek.github.io/grenstick.svg) !important;
 }
