@@ -1,0 +1,27 @@
+/* PLAYER 1 */
+
+.controller.xbox#gamepad-0 {	
+    background-image: url(https://thedoczek.github.io/blu.svg) !important;
+} 
+
+.xbox#gamepad-0 .button {
+    background-image: url(https://thedoczek.github.io/abxy.svg) !important;
+}
+
+.xbox#gamepad-0 .stick {
+    background-image: url(https://thedoczek.github.io/blustick.svg) !important;
+}
+
+/* PLAYER 2 */
+
+.controller.xbox#gamepad-1 {	
+    background-image: url(https://thedoczek.github.io/gren.svg) !important;
+} 
+
+.xbox#gamepad-1 .button {
+    background-image: url(https://thedoczek.github.io/abxy.svg) !important;
+}
+
+.xbox#gamepad-1 .stick {
+    background-image: url(https://thedoczek.github.io/grenstick.svg) !important;
+}
