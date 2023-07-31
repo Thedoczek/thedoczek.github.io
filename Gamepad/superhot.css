@@ -1,13 +1,13 @@
 /* PLAYER 1 */
 
 .controller.xbox#gamepad-0 {	
-    background-image: url(https://thedoczek.github.io/superhot.svg) !important;
+    background-image: url(https://thedoczek.github.io/Gamepad/superhot.svg) !important;
 } 
 
 .xbox#gamepad-0 .button {
-    background-image: url(https://thedoczek.github.io/abxy.svg) !important;
+    background-image: url(https://thedoczek.github.io/Gamepad/abxy.svg) !important;
 }
 
 .xbox#gamepad-0 .stick {
-    background-image: url(https://thedoczek.github.io/superhotstick.svg) !important;
+    background-image: url(https://thedoczek.github.io/Gamepad/superhotstick.svg) !important;
 }
