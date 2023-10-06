@@ -1,0 +1,132 @@
+@font-face {
+	font-family: 'Noto Sans';
+	src: url('NotoSans-Regular.ttf');
+}
+
+* {
+	font-family: 'Noto Sans';
+}
+
+h1 {
+	margin: 0px;
+}
+body {
+	background-color: #001860;
+	color: #e0e8ff;
+	font-size: 20px;
+}
+
+c {
+	font-size: 15px;
+}
+
+table.langs tr td c {
+	text-decoration: underline;
+}
+
+table.title tr td c {
+	text-decoration: none;	
+}
+
+table {
+	width: 100%;
+}
+table.title {
+	width: 50%;
+}
+tr {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+td {
+	width: 25%;
+	border:1px solid #e0e8ff;
+	box-sizing: border-box;
+	padding: 2px;
+	font-size: 20px;
+}
+td.title {
+	width: 50%;
+	border:none;
+}
+table.two tr td {
+	width: 50%;
+}
+table.three tr td {
+	width: 33%;
+}
+table.letters {
+	width: 75%;
+}
+table.letters tr td {
+	width: 40px;
+	text-align: center;
+	font-size: 25px;
+	border: none;
+	padding: 0px;
+}
+table.langs tr td {
+	text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+table.title tr td {
+	text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+	width: 50%;
+	border: none;
+}
+@media screen and (max-width:1440px) {
+	td{width:33%;}
+	table.title {width: 66%;}
+}
+@media screen and (max-width:960px) {
+	td{width:50%;}
+	table.title {width: 100%;}
+}
+@media screen and (max-width:720px) {
+	table.three tr td{width:100%;}
+}
+@media screen and (max-width:480px) {
+	td{width:100%;}
+	table.two tr td{width:100%;}
+	table.two tr td{width:100%;}
+	table.title tr td{width:100%;}
+	table.letters {width: 100%;}
+}
+
+textarea {
+	background: none;
+	border: none;
+	outline: none;
+	width: 100%;
+	resize: none;
+	overflow: hidden;
+	font-size: 20px;
+	color: #e0e8ff;
+}
+textarea::placeholder {
+	color: #e0e8ff80
+}
+
+table.langs tr td a, table.langs tr td a:visited {
+	color: #e0e8ff
+}
+a, a:visited, table.langs tr td a:hover {
+	font-size:30px;
+	color: #e0e8ffc0;
+	text-decoration: none;
+}
+a:hover {
+	font-size:30px;
+	color: #e0e8ff80
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 40px;
+}
