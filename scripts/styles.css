@@ -98,6 +98,7 @@ table.title tr td {
 	table.title tr td{width:100%;}
 	table.letters {width: 100%;}
 }
+/* try out @media (hover: none) */
 
 textarea {
 	background: none;
