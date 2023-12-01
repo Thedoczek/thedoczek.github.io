@@ -1,8 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');
+@font-face {
+	font-family: 'Noto Sans';
+	src: url('https://thedoczek.github.io/scripts/NotoSans.ttf');
+	src: url('NotoSans.ttf')
+}
+@font-face {
+	font-family: 'Noto Sans';
+	src: url('https://thedoczek.github.io/scripts/NotoSans-Italic.ttf');
+	src: url('NotoSans-Italic.ttf');
+	font-style: italic;
+}
+
+* {
+	font-family: 'Noto Sans';
+}
+
+:root {
+	font-size: 100%;
+}
 
 table {
   border-collapse: collapse;
-  border-color: #e0e8ff;
+  border-color: #e0f2ff;
 }
 
 b6 {
@@ -13,57 +31,32 @@ b5 {
   font-weight: 500
 }
 
-a:link {
-  color: #30c000;
+a:link, a:visited {
+  color: #e0f2ffc0;
   text-decoration: none;
 }
 
-/* .light a:link {
-  color: #0030c0;
-} */
-
-a:visited {
-  color: #30c000;
-  text-decoration: none;
-}
-/* .light a:visited {
-  color: #0035d3;
-} */
-
-a:hover {
-  color: #249000;
+a:hover, a:active {
+  color: #e0f2ff80;
   text-decoration: underline;
 }
-/* .light a:hover {
-  color: #00279c;
-} */
-
-a:active {
-  color: #909090;
-  text-decoration: underline;
-}
-/* .light a:active {
-  color: #4e4e4e;
-} */
 
 utw {
   font-weight: 700;
   font-style: italic;
-  font-size: 22;
+  font-size: 1.375rem;
 }
 
 wyd {
   font-weight: 300;
   font-style: italic;
-  font-size: 15;
+  font-size: 0.9375rem;
 }
 
 body {
-  color:e0e8ff;
-  background-color:002080;
-  font-family:Nunito, sans-serif;
+  color:#e0f2ff;
+  background-color:#003660;
   font-weight:400;
-  font-size:16;
 }
 /* body.light {
   color:001860;
@@ -71,7 +64,7 @@ body {
 } */
 
 notl {
-  color: #ff0040;
+  color: #ffe0f2c0;
   text-decoration: none;
 }
 /* .light notl {
@@ -79,7 +72,7 @@ notl {
 } */
 
 notl:hover {
-  color: #d00038;
+  color: #ffe0f280;
   text-decoration: underline;
   cursor: pointer;
 }
@@ -95,5 +88,5 @@ notl:hover {
   display: contents;
 }
 
-hr {color:e0e8ff}
+hr {color:e0f2ff}
 /* hr.light {color:001860} */

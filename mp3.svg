@@ -14,7 +14,7 @@
    id="svg8"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="mp3.svg"
-   inkscape:export-filename="C:\Users\dokmi\OneDrive\Strona\mp3.png"
+   inkscape:export-filename="C:\Users\dokmi\Desktop\thedoczek.github.io\mp3.png"
    inkscape:export-xdpi="192"
    inkscape:export-ydpi="192">
   <defs
@@ -39,18 +39,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4557546"
-     inkscape:cx="217.85677"
-     inkscape:cy="271.45179"
+     inkscape:zoom="0.7132836"
+     inkscape:cx="-113.30814"
+     inkscape:cy="334.09641"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-height="1002"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="true"
      showguides="false" />
@@ -62,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -106,7 +106,7 @@
        x="21.166666"
        y="16.65089" />
     <rect
-       style="fill:#0060c0;fill-opacity:1;stroke-width:0.264583"
+       style="fill:#6cc000;fill-opacity:1;stroke-width:0.264583"
        id="rect945"
        width="102.92291"
        height="39.6875"
@@ -149,7 +149,7 @@
          y="106.37919"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5167px;font-family:Nunito;-inkscape-font-specification:'Nunito, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">mp3</tspan></text>
     <rect
-       style="font-variation-settings:'wght' 700;fill:#80c0ff;fill-opacity:1;stroke-width:0.739618;stroke-linecap:round;stroke-linejoin:round"
+       style="font-variation-settings:'wght' 700;fill:#c7ff80;fill-opacity:1;stroke-width:0.739618;stroke-linecap:round;stroke-linejoin:round"
        id="rect849"
        width="8.4666662"
        height="41.29332"
@@ -157,7 +157,7 @@
        y="34.11293"
        rx="2.1166666" />
     <rect
-       style="font-variation-settings:'wght' 700;fill:#80c0ff;fill-opacity:1;stroke-width:0.658761;stroke-linecap:round;stroke-linejoin:round"
+       style="font-variation-settings:'wght' 700;fill:#c7ff80;fill-opacity:1;stroke-width:0.658761;stroke-linecap:round;stroke-linejoin:round"
        id="rect849-9"
        width="8.4666662"
        height="32.758255"
@@ -165,7 +165,7 @@
        y="42.647995"
        rx="2.1166666" />
     <rect
-       style="font-variation-settings:'wght' 700;fill:#80c0ff;fill-opacity:1;stroke-width:0.915355;stroke-linecap:round;stroke-linejoin:round"
+       style="font-variation-settings:'wght' 700;fill:#c7ff80;fill-opacity:1;stroke-width:0.915355;stroke-linecap:round;stroke-linejoin:round"
        id="rect871"
        width="8.4666662"
        height="63.247551"
@@ -173,7 +173,7 @@
        y="12.158701"
        rx="2.1166666" />
     <rect
-       style="font-variation-settings:'wght' 700;fill:#80c0ff;fill-opacity:1;stroke-width:0.807833;stroke-linecap:round;stroke-linejoin:round"
+       style="font-variation-settings:'wght' 700;fill:#c7ff80;fill-opacity:1;stroke-width:0.807833;stroke-linecap:round;stroke-linejoin:round"
        id="rect873"
        width="8.4666662"
        height="49.261414"
@@ -181,7 +181,7 @@
        y="26.144836"
        rx="2.1166666" />
     <rect
-       style="font-variation-settings:'wght' 700;fill:#80c0ff;fill-opacity:1;stroke-width:0.585111;stroke-linecap:round;stroke-linejoin:round"
+       style="font-variation-settings:'wght' 700;fill:#c7ff80;fill-opacity:1;stroke-width:0.585111;stroke-linecap:round;stroke-linejoin:round"
        id="rect875"
        width="8.4666662"
        height="25.842951"
@@ -189,7 +189,7 @@
        y="49.563297"
        rx="2.1166666" />
     <rect
-       style="font-variation-settings:'wght' 700;fill:#80c0ff;fill-opacity:1;stroke-width:0.796134;stroke-linecap:round;stroke-linejoin:round"
+       style="font-variation-settings:'wght' 700;fill:#c7ff80;fill-opacity:1;stroke-width:0.796134;stroke-linecap:round;stroke-linejoin:round"
        id="rect877"
        width="8.4666662"
        height="47.845123"
