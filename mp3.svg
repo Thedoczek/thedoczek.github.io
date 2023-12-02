@@ -39,9 +39,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7132836"
-     inkscape:cx="-113.30814"
-     inkscape:cy="334.09641"
+     inkscape:zoom="1.3938206"
+     inkscape:cx="193.12216"
+     inkscape:cy="296.59956"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -62,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,6 +80,24 @@
        rx="13.229166"
        ry="13.229166"
        transform="rotate(-45)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       id="rect949"
+       width="48.683334"
+       height="2.6458333"
+       x="57.943748"
+       y="71.966667"
+       rx="1.3229166"
+       ry="1.3229166" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       id="rect951"
+       width="93.133331"
+       height="26.458332"
+       x="21.166666"
+       y="26.458332"
+       rx="13.229166"
+       ry="13.229166" />
     <rect
        style="opacity:1;fill:#ffffff;stroke-width:0.264583"
        id="rect32"
@@ -105,6 +123,65 @@
        height="23.768047"
        x="21.166666"
        y="16.65089" />
+    <text
+       xml:space="preserve"
+       id="text921"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.5833332px;white-space:pre;shape-inside:url(#rect923);opacity:0.99000007;" />
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#220099;fill-opacity:0;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round"
+       id="rect879"
+       width="43.368004"
+       height="7.9922905"
+       x="31.576099"
+       y="71.275513" />
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#c7ff80;fill-opacity:1;stroke-width:0.739618;stroke-linecap:round;stroke-linejoin:round"
+       id="rect849-1"
+       width="8.4666662"
+       height="42.333332"
+       x="28.839581"
+       y="33.072914"
+       rx="2.1166666" />
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#c7ff80;fill-opacity:1;stroke-width:0.658761;stroke-linecap:round;stroke-linejoin:round"
+       id="rect849-9-4"
+       width="8.4666662"
+       height="33.866665"
+       x="98.160416"
+       y="41.539581"
+       rx="2.1166666" />
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#c7ff80;fill-opacity:1;stroke-width:0.915355;stroke-linecap:round;stroke-linejoin:round"
+       id="rect871-0"
+       width="8.4666662"
+       height="63.5"
+       x="42.703751"
+       y="11.906248"
+       rx="2.1166666" />
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#c7ff80;fill-opacity:1;stroke-width:0.807833;stroke-linecap:round;stroke-linejoin:round"
+       id="rect873-6"
+       width="8.4666662"
+       height="50.799999"
+       x="56.514999"
+       y="24.606249"
+       rx="2.1166666" />
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#c7ff80;fill-opacity:1;stroke-width:0.796134;stroke-linecap:round;stroke-linejoin:round"
+       id="rect877-0"
+       width="8.4666662"
+       height="46.566666"
+       x="84.137497"
+       y="28.839581"
+       rx="2.1166666" />
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#c7ff80;fill-opacity:1;stroke-width:0.585111;stroke-linecap:round;stroke-linejoin:round"
+       id="rect857"
+       width="8.4666662"
+       height="25.4"
+       x="70.326248"
+       y="50.006248"
+       rx="2.1166666" />
     <rect
        style="fill:#6cc000;fill-opacity:1;stroke-width:0.264583"
        id="rect945"
@@ -115,93 +192,16 @@
        rx="5.2916665"
        ry="5.2916665"
        transform="scale(-1)" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       id="rect949"
-       width="48.683334"
-       height="2.6458333"
-       x="57.943748"
-       y="71.966667"
-       rx="1.3229166"
-       ry="1.3229166" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
-       id="rect951"
-       width="93.133331"
-       height="26.458332"
-       x="21.166666"
-       y="26.458332"
-       rx="13.229166"
-       ry="13.229166" />
-    <text
-       xml:space="preserve"
-       id="text921"
-       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.5833332px;white-space:pre;shape-inside:url(#rect923);opacity:0.99000007;" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5167px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:'Nunito, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="39.179497"
-       y="106.37919"
+       x="37.253323"
+       y="107.56915"
        id="text929"><tspan
          sodipodi:role="line"
          id="tspan927"
-         x="39.179497"
-         y="106.37919"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5167px;font-family:Nunito;-inkscape-font-specification:'Nunito, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">mp3</tspan></text>
-    <rect
-       style="font-variation-settings:'wght' 700;fill:#c7ff80;fill-opacity:1;stroke-width:0.739618;stroke-linecap:round;stroke-linejoin:round"
-       id="rect849"
-       width="8.4666662"
-       height="41.29332"
-       x="28.839582"
-       y="34.11293"
-       rx="2.1166666" />
-    <rect
-       style="font-variation-settings:'wght' 700;fill:#c7ff80;fill-opacity:1;stroke-width:0.658761;stroke-linecap:round;stroke-linejoin:round"
-       id="rect849-9"
-       width="8.4666662"
-       height="32.758255"
-       x="98.160416"
-       y="42.647995"
-       rx="2.1166666" />
-    <rect
-       style="font-variation-settings:'wght' 700;fill:#c7ff80;fill-opacity:1;stroke-width:0.915355;stroke-linecap:round;stroke-linejoin:round"
-       id="rect871"
-       width="8.4666662"
-       height="63.247551"
-       x="42.703751"
-       y="12.158701"
-       rx="2.1166666" />
-    <rect
-       style="font-variation-settings:'wght' 700;fill:#c7ff80;fill-opacity:1;stroke-width:0.807833;stroke-linecap:round;stroke-linejoin:round"
-       id="rect873"
-       width="8.4666662"
-       height="49.261414"
-       x="56.514999"
-       y="26.144836"
-       rx="2.1166666" />
-    <rect
-       style="font-variation-settings:'wght' 700;fill:#c7ff80;fill-opacity:1;stroke-width:0.585111;stroke-linecap:round;stroke-linejoin:round"
-       id="rect875"
-       width="8.4666662"
-       height="25.842951"
-       x="70.326248"
-       y="49.563297"
-       rx="2.1166666" />
-    <rect
-       style="font-variation-settings:'wght' 700;fill:#c7ff80;fill-opacity:1;stroke-width:0.796134;stroke-linecap:round;stroke-linejoin:round"
-       id="rect877"
-       width="8.4666662"
-       height="47.845123"
-       x="84.137497"
-       y="27.561132"
-       rx="2.1166666" />
-    <rect
-       style="font-variation-settings:'wght' 700;fill:#220099;fill-opacity:0;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round"
-       id="rect879"
-       width="43.368004"
-       height="7.9922905"
-       x="31.576099"
-       y="71.275513" />
+         x="37.253323"
+         y="107.56915"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5167px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">mp3</tspan></text>
   </g>
 </svg>
