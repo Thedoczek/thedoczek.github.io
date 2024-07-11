@@ -53,12 +53,13 @@ function addgamepad(gamepad) {
     if (i >= 2) {div.setAttribute("style", "display: none;")}
     a.appendChild(div);
   }
-  d.appendChild(a);
 
   var atanDiv = document.createElement("div");
   atanDiv.className = "atanValue";
   atanDiv.setAttribute("id", "atanValue" + gamepad.index);
-  d.appendChild(atanDiv);
+  a.appendChild(atanDiv);
+
+  d.appendChild(a);
 
   document.getElementById("start").style.display = "none";
   document.body.appendChild(d);
@@ -116,17 +117,15 @@ function updateStatus() {
 
     var atanDiv = document.getElementById("atanValue" + j);
     try {
-      if (controller.axes[1] === 0) {
-        if (controller.axes[0] === 0) {
-          throw "0.0000";
-        } else if (controller.axes[0] > 0) {
-          throw "90.0000";
-        } else if (controller.axes[0] < 0) {
-          throw "-90.0000";
-        }
-      } else {
+      if (Math.abs(controller.axes[0]) + Math.abs(controller.axes[1]) > 0.5 && controller.axes[1] !== 0) {
         var atanValue = Math.atan2(controller.axes[0], controller.axes[1]) * (180 / Math.PI);
         atanDiv.innerHTML = "Ang: " + atanValue.toFixed(4);
+      } else if (controller.axes[1] === 0) {
+        if (controller.axes[0] > 0.5) {atanDiv.innerHTML = "Ang: 90.0000";}
+        else if (controller.axes[0] < -0.5) {atanDiv.innerHTML = "Ang: -90.0000";}
+        else {atanDiv.innerHTML = "Ang: -";}
+      } else {
+        atanDiv.innerHTML = "Ang: -";
       }
     } catch (error) {
       atanDiv.innerHTML = "Ang: " + error;
